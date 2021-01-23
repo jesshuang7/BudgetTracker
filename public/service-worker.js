@@ -9,7 +9,8 @@ const FILES_TO_CACHE = [
   '/manifest.webmanifest',
   '/style.css',
   '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png'
+  '/icons/icon-512x512.png',
+  '/assets/BudgetTracker.gif'
 ];
 
 // install
