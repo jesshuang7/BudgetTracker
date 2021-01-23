@@ -2,7 +2,7 @@
 
 Explore the [Project Page](https://github.com/jesshuang7/BudgetTracker)
 
-View the [Heroku Deployment](https://afternoon-sierra-95298.herokuapp.com/)
+View the [Heroku Deployment](https://whispering-wave-61907.herokuapp.com/)
 
 ## Table of Contents
 
