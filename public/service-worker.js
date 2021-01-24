@@ -1,10 +1,10 @@
 const CACHE_NAME = "static-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
 
-// const iconSizes = ["192", "512"];
-// const iconFiles = iconSizes.map(
-//   (size) => `/icons/icon-${size}x${size}.png`
-// );
+const iconSizes = ["192", "512"];
+const iconFiles = iconSizes.map(
+  (size) => `/icons/icon-${size}x${size}.png`
+);
 
 const staticFilesToPreCache = [
     '/',
@@ -13,11 +13,8 @@ const staticFilesToPreCache = [
     '/db.js',
     '/manifest.webmanifest',
     '/style.css',
-    '/assets/BudgetTracker.gif',
-    '/icons/icon-192x169.png',
-    '/icons/icon-512x452.png'
+    '/assets/BudgetTracker.gif'
 ].concat(iconFiles);
-
 
 
 // install
